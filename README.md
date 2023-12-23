@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![projeto-buzzfeed](https://github.com/Ruandev2/Desafio-Dio-Projeto-BuzzFeed/assets/93599287/009dd06f-e6be-4c47-83b1-b8a8aa5343cf)
+
+
